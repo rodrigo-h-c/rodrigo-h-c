@@ -7,7 +7,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Economics student passionate about policy analysis, tech, and food security. Currently a <strong>Research Scholar</strong> at UNAM and member of the National Association of Economics Students.
+  Economics student passionate about policy analysis and behavioural economics. Currently a <strong>Research Scholar</strong> at UNAM and member of the National Association of Economics Students.
 </p>
 
 ---
