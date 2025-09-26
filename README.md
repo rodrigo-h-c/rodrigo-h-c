@@ -1,11 +1,12 @@
 # Rodrigo Hernández-Cervantes
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1iFWGzRkwge2pDG14jaIOa8wTeLvIT10I/view?usp=sharing" 
+  <img src="https://drive.google.com/uc?export=view&id=1iFWGzRkwge2pDG14jaIOa8wTeLvIT10I" 
        alt="Rodrigo H. Cervantes" 
        width="200" 
-       height="300" 
-       style="border-radius: 50%; border: 2px solid #333;">
+       style="border-radius: 50%; border: 2px solid #333; height: auto;">
+  <br>
+  <em>Hard Herzog 2025 — AI-generated</em>
 </p>
 
 <h2 align="center">About Me</h2>
