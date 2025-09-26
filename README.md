@@ -1,7 +1,11 @@
 # Rodrigo Hernández
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/82/Alfred_Marshall.jpg](https://drive.google.com/file/d/1khEZkRkYVnTYrsbknlTYuPYruIGfWeqX/view?usp=sharing)" alt="Rodrigo H. Cervantes" width="181" height="270" style="border-radius: 50%; border: 2px solid #333;">
+  <img src="https://drive.google.com/uc?export=view&id=1khEZkRkYVnTYrsbknlTYuPYruIGfWeqX" 
+       alt="Rodrigo H. Cervantes" 
+       width="181" 
+       height="270" 
+       style="border-radius: 50%; border: 2px solid #333;">
 </p>
 
 <h2 align="center">About Me</h2>
@@ -15,7 +19,7 @@
 ### Highlights
 
 - **Education:**  
-  - **UNAM** - B.A. in Economics
+  - **UNAM** – B.A. in Economics
 
 - **Experience:**  
   - Research on financial systems & economic policy  
@@ -25,7 +29,9 @@
   - **OBIVU:** Studying university inequality & violence
 
 - **Publications:**  
-  - **[Analysis of Food Security in Mexico](https://bfaf4910-9cef-4d70-85f1-a6a2fcf2589c.filesusr.com/ugd/dc26c4_7236d38a85dd412a9072a378fd866a63.pdf)**
+  - **[Analysis of Food Security in Mexico](https://bfaf4910-9cef-4d70-85f1-a6a2fcf2589c.filesusr.com/ugd/dc26c4_7236d38a85dd412a9072a378fd866a63.pdf)**  
+  - **[De laberinto de Creta a la Torre de Babel: La paradoja de la descentralización en el auge del Bitcoin](https://oem.pressreader.com/article/281719800716941?fbclid=IwdGRzaAMqqXFjbGNrAyqpaGV4dG4DYWVtAjExAAEeh9wwQ4XKFlBOcHfZlqZRf2E13n958LzjApS9EvQjRnD2VbdynkSTK9d-Djc_aem_GOYkCh05-7ZhIIfsTrVq8A)**  
+    <br><em>Hernández-Cervantes, R. (2025, septiembre 7). Diario de Querétaro.</em>
 
 ---
 
