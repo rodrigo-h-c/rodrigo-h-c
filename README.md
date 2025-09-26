@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1khEZkRkYVnTYrsbknlTYuPYruIGfWeqX" 
        alt="Rodrigo H. Cervantes" 
-       width="181" 
-       height="270" 
+       width="200" 
+       height="300" 
        style="border-radius: 50%; border: 2px solid #333;">
 </p>
 
