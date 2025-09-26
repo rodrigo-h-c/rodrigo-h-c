@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1iFWGzRkwge2pDG14jaIOa8wTeLvIT10I" 
        alt="Rodrigo H. Cervantes" 
-       width="200" 
+       width="250" 
        style="border-radius: 50%; border: 2px solid #333; height: auto;">
   <br>
   <em>Hard Herzog 2025 — AI-generated</em>
