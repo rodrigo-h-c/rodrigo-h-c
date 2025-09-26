@@ -1,7 +1,7 @@
 # Rodrigo Hernández
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1khEZkRkYVnTYrsbknlTYuPYruIGfWeqX" 
+  <img src="https://drive.google.com/file/d/1iFWGzRkwge2pDG14jaIOa8wTeLvIT10I/view?usp=sharing" 
        alt="Rodrigo H. Cervantes" 
        width="200" 
        height="300" 
