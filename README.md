@@ -1,7 +1,7 @@
 # Rodrigo Hernández
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Alfred_Marshall.jpg" alt="Rodrigo H. Cervantes" width="181" height="270" style="border-radius: 50%; border: 2px solid #333;">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/82/Alfred_Marshall.jpg](https://drive.google.com/file/d/1khEZkRkYVnTYrsbknlTYuPYruIGfWeqX/view?usp=sharing)" alt="Rodrigo H. Cervantes" width="181" height="270" style="border-radius: 50%; border: 2px solid #333;">
 </p>
 
 <h2 align="center">About Me</h2>
